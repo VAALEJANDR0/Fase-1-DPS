@@ -1,1 +1,27 @@
-# Fase-1-DPS
+# Proyecto DPS
+
+Sistema de Gestión Empresarial: Contaduría, Inventario y Facturación Electrónica para Tiendas Online
+
+
+## Autores
+
+- Marlon David Martínez Montoya MM210981 G01T 
+- Karla Elizabeth Murillo Urrutia MU192557 G01T
+- Gabriela Lourde Rodriguez Parada RP210191 G01T 
+- Jessica Abigail Rodríguez Torres RT200479 G01T
+- Roberto Alejandro Ventura Alvarenga VA210756 G01T 
+
+## Licencia
+
+Este proyecto está bajo la licencia Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)
+Que establece:
+
+Usted es libre de:
+Compartir — copiar y redistribuir el material en cualquier medio o formato
+Adaptar — remezclar, transformar y construir a partir del material
+La licenciante no puede revocar estas libertades en tanto usted siga los términos de la licencia
+
+## Otros
+
+- Taiga: 
+- Mock Ups: 
