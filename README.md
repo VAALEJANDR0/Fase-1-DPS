@@ -23,5 +23,5 @@ La licenciante no puede revocar estas libertades en tanto usted siga los términ
 
 ## Otros
 
-- Taiga: 
+- Taiga: [https://tree.taiga.io/project/gaurezzz-tienda-online-con-contaduria-e-inventario-integrados/timeline]
 - Mock Ups: [https://drive.google.com/drive/folders/1imNYo7qu9C-dY5obPc7pdLJQPpyrCMWz?usp=sharing]
