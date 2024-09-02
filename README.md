@@ -13,7 +13,7 @@ Sistema de Gestión Empresarial: Contaduría, Inventario y Facturación Electró
 
 ## Licencia
 
-Este proyecto está bajo la licencia Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)
+Este proyecto está bajo la licencia Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0),
 Que establece:
 
 Usted es libre de:
